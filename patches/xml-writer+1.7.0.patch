@@ -1,0 +1,7 @@
+diff --git a/node_modules/xml-writer/index.d.ts b/node_modules/xml-writer/index.d.ts
+new file mode 100644
+index 0000000..ff2e240
+--- /dev/null
++++ b/node_modules/xml-writer/index.d.ts
+@@ -0,0 +1 @@
++declare module "xml-writer";

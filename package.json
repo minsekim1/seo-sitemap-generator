@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node index"
+    "dev": "ts-node index",
+    "postinstall": "npx patch-package --use-yarn"
   },
   "repository": {
     "type": "git",
